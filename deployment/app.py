@@ -14,10 +14,8 @@ page = st.sidebar.selectbox(label='Select Page:', options=['Home Page', 'Explora
 if page == 'Home Page':
     st.header('Home Page') 
     st.write('')
-    st.write('Phase 2 Graded Challenge 7')
-    st.write('Name      : Achmad Dhani')
-    st.write('Batch     : HCK-009')
-    st.markdown('Dataset: [Emotion Dataset](https://www.kaggle.com/datasets/abdallahwagih/emotion-dataset)')
+    st.write('Name  : Achmad Dhani')
+    st.markdown('Dataset    : [Emotion Dataset](https://www.kaggle.com/datasets/abdallahwagih/emotion-dataset)')
     st.write("Objective : Mental health is important and a lot of people either doubt or confused regarding in what they are feeling. Validation helps as a reassurance for a lot of people, giving them affirmation by knowing that others shares those same feelings. Employing NLP machine learning with high accuracy will efficiently classify emotions in the hopes to make a person's day a brighter.")
     st.write('')
     st.caption('Please pick the options in the Select Page Box located on the left of the screen to start!')
