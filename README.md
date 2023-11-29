@@ -61,3 +61,7 @@ The model is deployed on Hugging Face, making it accessible for broader use and 
 ## Conclusion 📌
 
 The project highlights the importance of emotional validation and the potential of NLP in understanding human emotions. Future work will focus on refining the model and expanding its emotional scope.
+
+## Dataset
+
+[Emotion Dataset](https://www.kaggle.com/datasets/abdallahwagih/emotion-dataset)
