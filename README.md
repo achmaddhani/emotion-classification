@@ -4,7 +4,7 @@
 
 ## Objective 🎯
 
-Mental health is a vital aspect of our well-being, yet it is often overlooked or misunderstood. Our project aims to provide validation and reassurance to individuals by employing advanced NLP machine learning techniques. With high accuracy, our model classifies emotions 🌈, offering affirmation and potentially brightening someone's day by showing they are not alone in their feelings.
+Mental health is a vital aspect of our well-being, yet it is often overlooked or misunderstood. This project aims to provide validation and reassurance to individuals by employing advanced NLP machine learning techniques. With high accuracy, our model classifies emotions 🌈, offering affirmation and potentially brightening someone's day by showing they are not alone in their feelings.
 
 ## Project Overview 📖
 
