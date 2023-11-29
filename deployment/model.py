@@ -1,9 +1,5 @@
 '''
-Phase 2 Graded Challenge 7
-
-Nama : Achmad Dhani
-
-Batch : HCK-009
+Achmad Dhani
 
 Objective : Creating a page for emotion classification
 '''

@@ -1,10 +1,5 @@
 '''
-===============================================
-Phase 2 Graded Challenge 7
-
 Achmad Dhani
-
-HCK-009
 
 Objective: Creating a page for NLP Exploratory Data Analysis
 '''

@@ -1,3 +1,8 @@
+"""
+Achmad Dhani
+
+Objective: creating a specific file to call the functions used
+"""
 import pandas as pd
 import numpy as np
 # preprocess
