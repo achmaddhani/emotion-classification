@@ -56,4 +56,4 @@ if page == 'Home Page':
 elif page == 'Exploration Data Analysis':
     eda.run()
 else:
-     model.run()
+    model.run()
